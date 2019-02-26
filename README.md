@@ -1,4 +1,4 @@
-# Digital-Image-Correlation/DIC/DVC
+# Digital Image Correlation/DIC/DVC
 Digital Image Correlation MATLAB GUI
 This is a MATLAB GUI base on MATLAB 2018b,
 The algorithm which I used may be advanced,
