@@ -8,3 +8,8 @@ The cited articals:
 2) Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, https://doi.org/10.1016/j.mechmat.2020.103646.
 
 There most have a free key.mat (license) to open the FreeDIC.
+
+Chinese:中文视频教程
+链接：https://pan.baidu.com/s/1ZgAjwpOitvo8dNBgSv603A 
+提取码：4vfi 
+
