@@ -9,7 +9,5 @@ The cited articals:
 
 There most have a free key.mat (license) to open the FreeDIC.
 
-Chinese:中文视频教程
-链接：https://pan.baidu.com/s/1ZgAjwpOitvo8dNBgSv603A 
-提取码：4vfi 
+Chinese:中文视频教程:https://b23.tv/JiHSnqi (b站）
 
