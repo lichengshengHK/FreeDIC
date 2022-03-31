@@ -1,6 +1,8 @@
 # FreeDIC
 MATLAB GUI, 2019b
 
+The 3D tool : https://github.com/lichengshengHK/iDVC
+
 The cited articals:
 
 1) Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, https://doi.org/10.1088/1361-6501/ab85b0.
