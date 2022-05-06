@@ -11,17 +11,23 @@ The cited articals:
  
  4) Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028 (裂隙分类中文建议：湮灭型、新生型、孤传型、拆分型、组合型、复合型裂隙）
 
-There most have a free key.mat (license) to open the FreeDIC.
+There is not need a key.mat (license) to open the FreeDIC.
 
 Chinese:中文视频教程:https://b23.tv/JiHSnqi (b站）
 
 更新日志：
 
-2022-03-22，版本-20220322,更新：
+FreeDIC-20220322, 更新：
 
   1）针对散斑质量差的连续图片计算（比如黏土龟裂试验），增强了算法稳定性，降低误差传递，提高计算精度；
 
   2）增加应变显示画图的标题，增加张数显示。
+  
+FreeDIC-0506, 更新：
+
+  1）免去之前的密钥验证，可以直接运行（在安装对应runtime后）
+  
+  2）增加基于《Evolution of cracks in the shear bands of granite residual soil》的裂隙定量分类与分析模块，具体参考简明教程。
 
 Examples：
 
