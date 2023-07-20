@@ -29,6 +29,8 @@ FreeDIC-20220506, 更新：
   
   2）增加基于《Evolution of cracks in the shear bands of granite residual soil》的裂隙定量分类与分析模块，具体参考简明教程。
 
+FreeDIC-20230720，更新：优化裂隙分析模块中的裂隙分类方法，提高准确性；修正《FreeDIC简明教程》部分表述。
+
 Examples：
 
 ![Exx](https://user-images.githubusercontent.com/47877456/160369190-c371a4f0-f582-44a3-aadb-07902da2f8ac.gif)
