@@ -1,4 +1,4 @@
-# FreeDIC
+# FreeDIC @黎澄生
 MATLAB GUI, 2019b
 
 The 3D tool : https://github.com/lichengshengHK/iDVC
@@ -34,6 +34,9 @@ FreeDIC-20220506, 更新：
 FreeDIC-20230720，更新：
 
                      优化裂隙分析模块中的裂隙分类方法，提高准确性；修正《FreeDIC简明教程》部分表述。
+
+FreeDIC-20230829，更新：
+                     修正非规整计算的相关bug.
 
 Examples：
 
