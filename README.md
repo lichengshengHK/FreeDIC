@@ -43,8 +43,12 @@ Examples：
 
 ![Exx](https://user-images.githubusercontent.com/47877456/160369190-c371a4f0-f582-44a3-aadb-07902da2f8ac.gif)
 
+![Gif_249](https://github.com/lichengshengHK/FreeDIC/assets/47877456/3a118f78-d376-4335-953a-777c07ee9f08)
+
 ![膨胀土龟裂](https://user-images.githubusercontent.com/47877456/160369238-41e62d23-bff2-4ede-88e9-bff7d86157a0.gif)
 
 ![边坡](https://user-images.githubusercontent.com/47877456/160369256-81297ffe-7fc1-4a14-aa2c-a3feefe9d639.gif)
 
 ![矢量图M-25-0 9](https://user-images.githubusercontent.com/47877456/160369301-0a89b474-cfcd-4aa2-b353-4626320be1ed.gif)
+
+
