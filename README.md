@@ -43,8 +43,6 @@ Examples：
 
 ![Exx](https://user-images.githubusercontent.com/47877456/160369190-c371a4f0-f582-44a3-aadb-07902da2f8ac.gif)
 
-![Gif_249](https://github.com/lichengshengHK/FreeDIC/assets/47877456/d878e1ab-6083-4344-8b73-a8e299fe3ec4)
-
 ![Gif_249](https://github.com/lichengshengHK/FreeDIC/assets/47877456/3a118f78-d376-4335-953a-777c07ee9f08)
 
 ![膨胀土龟裂](https://user-images.githubusercontent.com/47877456/160369238-41e62d23-bff2-4ede-88e9-bff7d86157a0.gif)
