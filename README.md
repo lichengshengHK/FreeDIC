@@ -3,7 +3,7 @@ MATLAB GUI, 2019b
 
 The 3D tool : https://github.com/lichengshengHK/iDVC
 
-There is not need a key.mat (license) to open the FreeDIC.
+There is not need a key.mat (license) to open the FreeDIC. 无需密钥，直接运行
 
 Chinese:中文视频教程:https://b23.tv/JiHSnqi (b站）
 
@@ -23,6 +23,10 @@ The cited articals:
 
 7、Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
 
+8、Evolution of Shear Band in Plane Strain Compression of Naturally Structured Clay with a High Sensitivity, https://doi.org/10.3390/app12031180
+
+9、平面应变条件下不同裂隙方向的原状膨胀土变形行为及剪切带演化特征, https://doi.org/10.16285/j.rsm.2022.1433
+
 更新日志：
 
 FreeDIC-20220322, 更新：
@@ -38,6 +42,9 @@ FreeDIC-20230720，更新：
 
 FreeDIC-20230829，更新：
 修正非规整计算的相关bug.
+
+FreeDIC-20240106，更新：
+调整系列计算策略，增加选项，可选择“增量式”和“1-N传统模式”（默认）
 
 Examples：
 
