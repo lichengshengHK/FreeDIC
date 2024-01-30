@@ -3,7 +3,9 @@ MATLAB GUI, 2019b
 
 The 3D tool : https://github.com/lichengshengHK/iDVC
 
-There is not need a key.mat (license) to open the FreeDIC. 无需密钥，直接运行
+无需密钥，直接运行
+
+若使用FreeDIC，请注明出处
 
 Chinese:中文视频教程:https://b23.tv/JiHSnqi (b站）
 
