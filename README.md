@@ -1,4 +1,7 @@
 # FreeDIC @黎澄生
+
+http://dx.doi.org/10.13140/RG.2.2.19283.96800
+
 MATLAB GUI, 2019b
 
 The 3D tool : https://github.com/lichengshengHK/iDVC
