@@ -10,7 +10,7 @@ The 3D tool : https://github.com/lichengshengHK/iDVC
 
 若使用FreeDIC，请注明出处
 
-Chinese:中文视频教程:https://b23.tv/JiHSnqi (b站）
+Chinese:中文视频教程:“数字图像测量”(b站）
 
 The cited articals:
 
