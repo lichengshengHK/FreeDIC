@@ -53,6 +53,10 @@ FreeDIC-20230829，更新：
 FreeDIC-20240106，更新：
 调整系列计算策略，增加选项，可选择“增量式”和“1-N传统模式”（默认）
 
+FreeDIC-20240425，更新：
+1）在计算区域的标记中，增加了可使用其它软件编辑导入的功能，适用于复杂计算区域情况
+2）修正了“1-N"系列计算模式的bug
+
 Examples：
 
 ![Exx](https://user-images.githubusercontent.com/47877456/160369190-c371a4f0-f582-44a3-aadb-07902da2f8ac.gif)
