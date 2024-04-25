@@ -8,7 +8,7 @@ The 3D tool : https://github.com/lichengshengHK/iDVC
 
 无需密钥，直接运行
 
-若使用FreeDIC，请注明出处
+若使用FreeDIC，请注明出处或引用相关论文
 
 Chinese:中文视频教程:“数字图像测量”(b站）
 
