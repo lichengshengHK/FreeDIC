@@ -68,24 +68,21 @@ Examples：
 
 The articals:
 
-1、Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, https://doi.org/10.1088/1361-6501/ab85b0.
+1. Chengsheng Li, Rongjun Shu. Accurate and simple digital volume correlation using pre-interpolation, Measurement Science and Technology, 2020, 151:103646. https://doi.org/10.1088/1361-6501/ab85b0.
 
-2、Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation， Engineering Geology, https://doi.org/10.1016/j.enggeo.2024.107505
+2. Chengsheng Li, Lingwei Kong, et al. Determination of damage evolution characteristics in granite residual soil shear bands by micro-CT-based advanced digital volume correlation, Engineering Geology, 2024, 333: 107505. https://doi.org/10.1016/j.enggeo.2024.107505
 
-3、Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, https://doi.org/10.1016/j.mechmat.2020.103646.
+3. Chengsheng Li, Lingwei Kong, et al. Dynamic three-dimensional imaging and digital volume correlation analysis to quantify shear bands in grus, Mechanics of Materials, 2020, 151:103646. https://doi.org/10.1016/j.mechmat.2020.103646.
 
-4、Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, https://doi.org/10.1016/j.jrmge.2021.12.028
+4. hengsheng Li, Lingwei Kong, et al.Evolution of cracks in the shear bands of granite residual soil, Journal of Rock Mechanics and Geotechnical Engineering, 2022, 14(6): 1956-1966. https://doi.org/10.1016/j.jrmge.2021.12.028
 
-5、花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，https://doi.org/10.16285/j.rsm.2023.0713
+5. 黎澄生, 张炳鑫, 刘智军. 花岗岩残积土复杂次生裂隙的分类与损伤特征，岩土力学，2023, 44(10):2879-2888. https://doi.org/10.16285/j.rsm.2023.0713
 
-6、花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，https://doi.org/10.16285/j.rsm.2022.1732
+6. 黎澄生, 孔令伟, 等. 花岗岩残积土剪切带上的细观结构损伤规律，岩土力学，2023, 44(11):3203-3212, 3181. https://doi.org/10.16285/j.rsm.2022.1732
 
-7、Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, https://doi.org/10.1007/s00603-022-03186-y
+7. Kai Wu, Qingshan Meng, Chi Wang, Qinglong Qin, Chengsheng Li. Experimental investigation of damage evolution characteristics of coral reef limestone based on acoustic emission and digital volume correlation techniques, Rock Mechanics and Rock Engineering, 2022, 56: 2357-2374. https://doi.org/10.1007/s00603-022-03186-y
 
-8、Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, https://doi.org/10.1007/s11629-023-8159-6
+8. Li Chengsheng, Zhang Bingxin, et al. Mesoscopic measurement of damage and shear bands of granite residual soil using Micro-CT and digital volume correlation, Journal of Mountain Science, 2023, 20(11): 3423-3436. https://doi.org/10.1007/s11629-023-8159-6
 
-9、Evolution of Shear Band in Plane Strain Compression of Naturally Structured Clay with a High Sensitivity, https://doi.org/10.3390/app12031180
-
-10、平面应变条件下不同裂隙方向的原状膨胀土变形行为及剪切带演化特征, https://doi.org/10.16285/j.rsm.2022.1433
 
 
