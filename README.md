@@ -72,7 +72,7 @@ Chinese:中文视频教程:“数字图像测量”(b站）
 
 Examples：
 
-![Gif_混凝土粱](https://github.com/user-attachments/assets/6641c15e-2df3-4e7f-aafd-5cd6888f0875)
+![Gif_混凝土粱](https://github.com/user-attachments/assets/f3f02c4a-7c95-403e-8bab-ce24d47ea198)
 
 ![Exx](https://user-images.githubusercontent.com/47877456/160369190-c371a4f0-f582-44a3-aadb-07902da2f8ac.gif)
 
