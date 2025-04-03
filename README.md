@@ -64,13 +64,15 @@ Chinese:中文视频教程:“数字图像测量”(b站）
 
 2）针对大变形-低散斑质量，提高了稳定性
 
-3）修复了，将计算Strain.mat后更改文件夹路径后无法显示原图的问题
+3）修复了，将计算Strain.mat后更改文件夹路径后无法显示原图的问题（需要重新加载Re_Im和Data文件路径，Re_Im文件名个格式必须与之前一致）
 
 4）提高了Strain的计算速度
 
 
 
 Examples：
+
+![Gif_混凝土粱](https://github.com/user-attachments/assets/6641c15e-2df3-4e7f-aafd-5cd6888f0875)
 
 ![Exx](https://user-images.githubusercontent.com/47877456/160369190-c371a4f0-f582-44a3-aadb-07902da2f8ac.gif)
 
